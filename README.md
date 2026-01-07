@@ -35,13 +35,6 @@
 - I enjoy learning new tech and improving a little every day 🚀
 - Workout daily
 - Can solve a rubik's cube under a min.
-
-### 📊 GitHub Stats
-
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VedantBankewar&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantBankewar&layout=compact&theme=default)
-
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and connect with me.*
